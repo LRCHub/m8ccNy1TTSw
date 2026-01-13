@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "露",
+  "base_artist": "Siip",
+  "createdAt": "2026-01-13T15:55:40.499353Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "露",
+      "artist": "Siip",
+      "has_synced": false,
+      "path": "select/pl_01_露_Siip.txt"
+    }
+  ]
+}
